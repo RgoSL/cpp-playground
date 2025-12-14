@@ -1,36 +1,33 @@
-#  <img src="https://skillicons.dev/icons?i=cpp" align="center" /> CppAtivs – Meus Estudos da Linguagem C++
+#  <img src="https://skillicons.dev/icons?i=cpp" align="center" /> CPP Playground – My Studies of the C++ Language
 
-- 🎯 Repositório criado para armazenar códigos que fiz para praticar a linguagem.  
-- 🧭 Para facilitar a navegação, cada atividade está marcada por um link.
-
-Fazer estas atividades me ajudou a desenvolver um projeto de Sistemas Embarcados 💪🏻
+- 🎯 Repository created to store code I wrote to practice the language.
+- 🧭 To make navigation easier, each activity is marked with a link.
+  
+Doing these activities helped me develop an Embedded Systems project 💪🏻
 
 <!-- SESSÃO DO ÍNDICE DE CÓDIGOS ⬇️ -->
-## 📇 Sumário :
+## 📇 Summary :
 
-### ✍🏻 Sintaxe
-Neste código eu mencionei os conceitos mais importantes para começar em C++
-- ✍🏻 [Sintaxe Da Linguagem](https://github.com/RgoSL/CppAtivs/blob/main/Sintaxe.cpp) <!-- ⬅️ LINK PARA O RESPECTIVO CÓDIGO -->
+### ✍🏻 Syntax
+In this code I mentioned the most important concepts to get started with in C++.
+- ✍🏻 [Language Syntax](https://github.com/RgoSL/CppAtivs/blob/main/Sintaxe.cpp) <!-- ⬅️ LINK PARA O RESPECTIVO CÓDIGO -->
 <br>
 
- ### 🚨 Ligando LEDs
-Neste código, ao receber um número do usuário, a placa de LEDs que eu fiz acenderia no padrão desse número.
-- 🚨 [Ativando uma Placa](https://github.com/RgoSL/CppAtivs/blob/main/LigarLed.cpp) <!-- ⬅️ LINK PARA O RESPECTIVO CÓDIGO -->
+ ### 🚨 Turning on LEDs
+In this code, upon receiving a number from the user, the LED board I made would light up according to that number's pattern.
+- 🚨 [Activating a Board](https://github.com/RgoSL/CppAtivs/blob/main/LigarLed.cpp) <!-- ⬅️ LINK PARA O RESPECTIVO CÓDIGO -->
 <br>
 
-  ### ⌚ Modo Relógio
-Neste código, eu criei uma lógica para uma placa de LEDs acender como um timer, indo de 0 - 9
-- ⌚ [Timer de LEDs](https://github.com/RgoSL/CppAtivs/blob/main/ModoRelogio.cpp) <!-- ⬅️ LINK PARA O RESPECTIVO CÓDIGO -->
-<br>
+  ### ⌚ Clock Mode
+In this code, I created logic for an LED panel to light up using a timer, going from 0 to 9.
+- ⌚ [LED Timer](https://github.com/RgoSL/CppAtivs/blob/main/ModoRelogio.cpp) <!-- ⬅️ LINK PARA O RESPECTIVO CÓDIGO -->
 
 <!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
 ---
 
-### 📚 Recursos Úteis
+### 📚 Useful Resources
 
-- 📘 [Documentação Oficial da Linguagem C++ (PT-BR)](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)  
-- 🧾 [C++ Cheatsheet — Cola rápida com tudo que importa](https://www.geeksforgeeks.org/cpp/cpp-cheatsheet/)  
-- 🎓 [W3Schools — Tutorial interativo de C++](https://www.w3schools.com/cpp/)
-
-
-
+- 📘 [Official C++ Language Documentation](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)  
+- 🧾 [C++ Cheatsheet — Quick reference for what matters](https://www.geeksforgeeks.org/cpp/cpp-cheatsheet/)  
+- 🎓 [W3Schools — Interactive C++ tutorial](https://www.w3schools.com/cpp/)
+---
